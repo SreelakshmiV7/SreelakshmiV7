@@ -1,7 +1,7 @@
 <!-- Header / Hero --> 
 <h1 align="center">Hi there 👋, I’m Sreelakshmi V</h1>
 <p align="center">
-  👩‍💻 AI & Data Science Explorer | 🎓 MCA (AI & DS) @ Amrita | 🧠 Transforming Data into Intelligent Insights
+  👩‍💻 AI & Data Science Explorer | 🎓 MCA (AI & DS)  | 🧠 Transforming Data into Intelligent Insights
 </p>
 
 ---
