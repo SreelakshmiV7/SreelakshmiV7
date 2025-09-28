@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats & Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreelakshmiv&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmiv&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SreelakshmiV7&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreelakshmiV7&theme=dark" alt="GitHub Streak" />
 </p>
 
 
