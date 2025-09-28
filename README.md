@@ -32,12 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmiv&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Machine%20Learning-orange?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Status-Exploring%20NLP-blue?style=for-the-badge&logo=nltk" />
-  <img src="https://img.shields.io/badge/Status-Hands-on%20Computer%20Vision-green?style=for-the-badge&logo=opencv" />
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-red?style=for-the-badge" />
-</p>
 
 ---
 
