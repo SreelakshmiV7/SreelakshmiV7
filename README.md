@@ -1,7 +1,7 @@
 <!-- Header / Hero --> 
 <h1 align="center">Hi there 👋, I’m Sreelakshmi V</h1>
 <p align="center">
-  👩‍💻 AI & Data Science Explorer | 🎓 MCA (AI & DS) @ Amrita | 🧠 Turning Data into Intelligence
+  👩‍💻 AI & Data Science Explorer | 🎓 MCA (AI & DS) @ Amrita | 🧠 Transforming Data into Intelligent Insights
 </p>
 
 ---
@@ -9,27 +9,34 @@
 ## 👀 About Me
 
 - 🎓 Pursuing **MCA in Artificial Intelligence & Data Science** at Amrita Vishwa Vidyapeetham  
-- 📊 Strong foundation with **BCA in Data Science**  
-- 🐍 Skilled in **Python, AI/ML, and data-driven problem solving**  
-- ❤️ Passionate about **building intelligent systems, hackathons, and creative innovation**  
-- 🏐 A blend of **developer + athlete**, bringing both discipline and creativity  
+- 📊 Exploring **Data Science with a foundation in BCA**  
+- 🐍 Proficient in **Python, AI/ML, and data-driven problem solving**  
+- ❤️ Passionate about **building intelligent systems, participating in hackathons, and creative innovation**  
+- 🏐 A unique blend of **developer + athlete**, bringing both discipline and creativity  
 
 ---
 
-## 🎯 Goals / What I’m Exploring
+## 🎯 Goals & Exploration
 
-- 🤖 Advancing expertise in **Machine Learning, NLP, and Computer Vision**  
+- 🤖 Deepening expertise in **Machine Learning, NLP, and Computer Vision**  
 - 🛠️ Designing **smart applications & AI-powered platforms**  
-- 🌍 Collaborating & contributing to **open-source projects**  
+- 🌍 Contributing to **open-source projects and collaborative innovations**  
 - ✍️ Sharing knowledge and projects through **GitHub & beyond**  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreelakshmiv&show_icons=true&theme=dark&locale=en" alt="sreelakshmiv" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmiv&theme=dark" alt="sreelakshmiv" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreelakshmiv&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmiv&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20Machine%20Learning-orange?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Status-Exploring%20NLP-blue?style=for-the-badge&logo=nltk" />
+  <img src="https://img.shields.io/badge/Status-Hands-on%20Computer%20Vision-green?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-red?style=for-the-badge" />
 </p>
 
 ---
@@ -42,7 +49,7 @@
 | 🌐 Web / Backend     | Flask, HTML, CSS, JavaScript |
 | 🤖 AI & ML           | TensorFlow/Keras, scikit-learn, OpenCV, NLP |
 | 📊 Data Handling     | Pandas, NumPy, MongoDB, MySQL |
-| 🎨 Visualization     | Power BI, Matplotlib |
+| 🎨 Visualization     | Power BI, Matplotlib, Seaborn |
 | 🛠️ Tools & Others    | Git, GitHub, VS Code, Jupyter, Streamlit, Canva |
 
 ---
@@ -50,9 +57,9 @@
 ## 📫 Get in Touch
 
 - 📧 Email: **sreelakshmiv2002@gmail.com**  
-- 💼 LinkedIn: [Sreelakshmi V](https://www.linkedin.com/in/your-link)  
+- 💼 LinkedIn: [Sreelakshmi V](https://www.linkedin.com/in/sreelakshmi-v-)  
 - 🌐 Portfolio: *Coming Soon...*  
 
 ---
 
-<sub>✨ “Exploring intelligence hidden in data, one commit at a time.” ✨</sub>
+<sub>✨ “Decoding the whispers of data, one commit at a time…” ✨</sub>
