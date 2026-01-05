@@ -1,5 +1,5 @@
 <!-- Header / Hero --> 
-<h1 align="center">Hi there 👋, I’m Sreelakshmi V</h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>, I’m Sreelakshmi V</h1>
 <p align="center">
   👩‍💻 AI & Data Science Explorer | 🎓 MCA (AI & DS)  | 🧠 Transforming Data into Intelligent Insights
 </p>
